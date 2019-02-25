@@ -1,0 +1,15 @@
+Apples 0
+Bell Pepper 1
+Lemons 2
+Onions 3
+Oranges 4
+Tomatos 5
+Broccoli 6
+Potato 7
+Cauliflower 8
+Corn 9
+Asparagus 10
+Garlic 11
+Carrot 12
+Avocado 13
+Cucumber 14
